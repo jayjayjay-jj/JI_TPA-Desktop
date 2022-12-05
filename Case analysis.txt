@@ -1,0 +1,144 @@
+Stuck in the Movie
+
+1. Manager
+*Ensures cash flow goes well w/o disturbing the business operation
+*View 
+  i. revenues from :
+    a. ticket sales
+    b. food orders
+    c. beverage orders
+    d. advertisements
+    e. partnerships
+  ii. expenses :
+    a. facilities improvement
+    b. maintenance
+    c. electricity
+    d. staff wages
+    e. taxes
+    f. etc.  
+  iii. movie schedule :
+    a. schedule delays
+    b. comparisons between the number of tickets and the number of attendees
+    c. etc.
+  iv. facilities and equipment 
+  v. membership : 
+    a. gold
+    b. platinum
+  vi. employee :
+    a. maintain quality of service
+    b. resign or not based on the contract and resignation letter that has been subumitted at least two months before the resignation
+*Manager can filter data based on important attributes so that it is easier to find the specific data needed
+
+
+2. Human Resource Department - employee
+*Access to 
+  i. personal information
+    a. job details
+    b. contact information
+    c. warning letters
+    d. salary
+    e. personal leave
+    f. working time
+    g. etc.
+  ii. recruitment
+    a. registration
+    b. candidate selection
+    c. technical test 
+    d. interview
+    e. meeting      
+    *After meeting results are final, the accepted employees will start work at the beginning of next week
+    *Employee who violates rules that have been signed in the contract -> department will issue a warning letter based on the manager's approval
+    *Three times warning letters -> employee will be fired based on the manager's approval
+  iii. salary adjustments (based on employee's work perfomance)
+    a. preparing a list of employees who will receive a salary change
+    b. discussing w manager whether to accept or reject the employees' salary change
+    c. the accepted employees' will be forwarded to the acc n finance department for further processing
+  iv. sets employees' working time
+    a. employees can request to change their working time at the beginning of each month
+    b. use data visualization to make easier to check employee attendance at the end of each month
+    c. each employee can submit a personal leave req for some reason (marriage, maternity, sick, bereavement, religious) -> hr review and accpet/ reject
+
+
+3. Accounting and Finance Department - cash flow (money)
+  i. Every deparment that needs money must send a fund req to this deparment -> together w manager will review the fund req to be accepted, rejected, or revised -> result will be notified to the related department and storage department if needed
+  ii. Calculating taxes (Based on Article 58 Paragraph (1) Law Number 1 of 2022 concerning Financial Relations between the Central Government and Regional Government)
+
+
+4. Storage Department -> facility and equipment
+  i. Label everything company owned to make inventory process more manageable
+  ii. Tracking who, when, and where the facility and equipment were last used
+  iii. Puchasing new facilities
+  a. Purchasing new facilities and equipment req by other departments (approved by acc n finance)
+  b. Calculate shortage or excess money based on the actual price and fund that has been approved by acc n finance (important data will be sent to the acc n finance dep as a proof of accountability)
+  iv. Broken facility :
+  a. Check and fix damaged facilities or equipment
+  b. notify the employee who reported the problem (can be fixed or not)
+  
+
+5. External Department -> relationship
+  i. Maintaining relationships between company and external parties 
+  ii. The information must be summarized and recorded to ensure the information is not lost (Must be known by manager)
+  iii. The external Parties :
+    a. Movie producers 
+      - knowing the details of movie -> sent to movie department
+      - movie's playing period is over -> snet detailed reports to external parties
+    b. Food and beverage suppliers
+      - search for suppliers who can work together to support the businesss operations of the company cafe
+      - contact the supplier to req additional supplies when the stock is running low (based on the data from the storage dept and approval from the acc n finance dept)
+    c. advertising partnerships
+      - search for companies that want to advertise on company
+      - knowing the details of the advertisement
+      - communicate w the acc n finance dept to determine the minimum costs required for the advertisement
+      - send detailed reports to external parties after the ads period is over
+
+
+6. Promotion and Event Department
+  i. Managing promo or event that is available on company
+  ii. View list of customers who have become members and inform them about any ongoing promo or event
+  iii. Generate and distribute vouchers to customers who meet certain criteria
+  iv. Cashier does not need to enter the voucher manually
+
+
+7. Movie Department -> serving customers who want to watch movies
+  (i). Schedule division
+    a. Responsible for scheduling movies that have a contract with company
+    b. Choose the movies to be shown along w the number of shows on a specific delays
+    c. Create a schedule automatically
+    d. Can override the generated schedule
+  (ii). Front Office division
+    a. Responsible for serving customers who want to buy movie ticket
+    b. Ask for the details of movie customer wants to watch
+    c. Ask for payment method the customer wants to use (cash, digital wallet, etc.)
+    d. Create, print, and give the movie ticket to the customer
+    e. Ask for customer's membership card
+      - Doesn't have and wants to create one -> create card with additional card printing fee
+      - Already has and wants to use -> scan card and point automatically increase
+      - Points have reached the usage criteria -> ask if customer wants to use the points
+  (iii). Operation division
+    a. Preparing theater's rooms that will be used for the next schedule
+    b. Guide the customer from previous schedule to disposing garbage in the provide place and clean the room
+    c. Check the movies that will be played, choose the ads that will be shown, ensure the projector can run well
+    d. Stanby 20 minutes before movie ends.
+    e. Open the door and check customer's ticket that have been purchased before
+
+  
+8. Cafe Department -> serving customers who want to buy fnb
+  (i). Front Office division
+    a. Serving customers who want to buy fnb
+    b. Ask for the details of the food and/or beverage
+    c. Ask for payment method the customer wants to use (cash, digital wallet, etc. )
+    d. Print the receipt and system will forward order to kitchen division
+    e. The customer can check the order's status on the screen above this dicision
+    f. The customer can pick up order by showing the receipt
+  (ii). Kitchen division
+    a. Making foods and/or beverage ordered by customers according to who ordered first
+    b. Change the status of the order from ordered to processed
+    c. Change status of the order to ready after the food and/or beverage is made
+
+  
+9. Administrator Department -> company system
+  i. Has all privileges to access the system
+  ii. Manage what menus any depatment can access
+  iii. Securely reset password if the employee forgets their password
+
+  

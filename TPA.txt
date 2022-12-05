@@ -1,0 +1,22 @@
+(Page 427)
+Design Pattern : Singleton, Factory, Facade
+
+1. Singleton : In every factory
+2. Factory : Employee, customer
+3. Facade
+
+
+
+
+Class Diagram 
+1. Manager
+2. Employee 
+  a. HR Dept
+  b. Acc n Finance Dept
+  c. Storage Dept
+  d. External Dept
+  e. Promotion n Event Dept
+  f. Movie Dept
+  g. Cafe Dept
+  h. Administrator Dept
+  
